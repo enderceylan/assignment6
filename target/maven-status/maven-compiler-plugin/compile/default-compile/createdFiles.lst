@@ -1,0 +1,12 @@
+main\java\assign\domain\NewMeeting.class
+main\java\assign\domain\NotFound.class
+main\java\assign\services\ProjectService.class
+main\java\assign\domain\Meeting.class
+main\java\assign\domain\Meetings.class
+main\java\assign\domain\NewProject.class
+main\java\assign\domain\Project.class
+main\java\assign\resources\MyEavesdropResource.class
+main\java\assign\resources\MyEavesdropApplication.class
+main\java\assign\resources\MyEavesdropResource$1.class
+main\java\assign\services\ProjectServiceImpl.class
+main\java\assign\domain\Projects.class
